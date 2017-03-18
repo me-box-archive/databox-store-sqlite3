@@ -1,0 +1,33 @@
+{
+	"manifest-version": 1,
+
+	"name": "databox-store-sqlite3",
+	"version": "0.1.0",
+
+	"description": "A simple Databox store with an SQLite3 backend for testing",
+	"author": "Yousef Amar <yousef@amar.io> (http://yousefamar.com/)",
+	"license": "MIT",
+
+	"tags": [
+		"store",
+		"sqlite3",
+		"db",
+		"native",
+		"debug",
+		"test"
+	],
+
+	"homepage": "https://github.com/me-box/databox-store-sqlite3",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/me-box/databox-store-sqlite3.git"
+	},
+
+	"network-permissions": [
+	],
+	"hardware-permissions": [
+	],
+
+	"resource-requirements": {
+	}
+}
